@@ -7,7 +7,7 @@ Thank you for exploring this repository!
 
 
 #### Neural style transfer: turn your photos into artwork
-<img src="https://media.giphy.com/media/3qLCzcfCNNlExSFJ3q/giphy.gif" width="70"></h2> 
+<img src="https://media.giphy.com/media/3qLCzcfCNNlExSFJ3q/giphy.gif" width="120"></h2> 
 
 Within this repository, you'll find comprehensive documentation and source code that encapsulates our exploration and application of concepts taught during the course. Our project revolves around Neural style transfer (NST) algorithm in computer vision.
 
