@@ -1,4 +1,4 @@
-# Vision and Cognitive Systems
+# Vision and Cognitive Systems Project
 
 Welcome to the repository for the final project of the Vision and Cognitive Systems course, conducted in Padova during the academic year 2023/2024 by Professor L. Ballan.
 Thank you for exploring this repository!
