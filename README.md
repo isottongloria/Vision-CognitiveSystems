@@ -8,7 +8,7 @@ Thank you for exploring this repository!
 Within this repository, you'll find comprehensive documentation and source code that encapsulates our exploration and application of concepts taught during the course. Our project revolves around Neural style transfer (NST) algorithm in computer vision.
 
 ## Project Documentation
-This repository contains a PyTorch implementation of the original Neural style transfer paper (link: [Gatys et al.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/paper/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)).
+This repository contains a PyTorch implementation of the original Neural style transfer paper ([Gatys et al.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/paper/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)).
 
 ## Getting Started
  ....
