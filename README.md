@@ -4,9 +4,9 @@ Welcome to the repository for the final project of the Vision and Cognitive Syst
 Thank you for exploring this repository!
 
 ## Project Overview
-<img src="https://media.giphy.com/media/3qLCzcfCNNlExSFJ3q/giphy.gif" width="70"></h2>
 
-#### Neural style transfer: turn your photos into artwork
+
+#### Neural style transfer: turn your photos into artwork <img src="https://media.giphy.com/media/3qLCzcfCNNlExSFJ3q/giphy.gif" width="70"></h2>
 Within this repository, you'll find comprehensive documentation and source code that encapsulates our exploration and application of concepts taught during the course. Our project revolves around Neural style transfer (NST) algorithm in computer vision.
 
 ## Project Documentation
